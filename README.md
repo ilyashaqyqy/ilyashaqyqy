@@ -9,7 +9,7 @@
   <a href="mailto:elhaqyqy.ilyas@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ilyashaqyqy&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
+
 </p>
 
 ---
