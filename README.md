@@ -9,6 +9,7 @@
   <a href="mailto:elhaqyqy.ilyas@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
   </a>
+   <img src="https://komarev.com/ghpvc/?username=ilyashaqyqy&color=00e1f7&style=flat-square" alt="Profile Views" />
 
 </p>
 
@@ -43,10 +44,10 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilyashaqyqy&show_icons=true&theme=light&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyashaqyqy&layout=compact&langs_count=8&theme=light"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyashaqyqy&layout=compact&langs_count=8&theme=nord"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyashaqyqy&theme=nord"/>
+</div>
 
 ---
 
